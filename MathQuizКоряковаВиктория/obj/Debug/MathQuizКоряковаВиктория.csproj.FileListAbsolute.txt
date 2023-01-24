@@ -1,0 +1,11 @@
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\bin\Debug\MathQuizКоряковаВиктория.exe.config
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\bin\Debug\MathQuizКоряковаВиктория.exe
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\bin\Debug\MathQuizКоряковаВиктория.pdb
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.csproj.AssemblyReference.cache
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.csproj.SuggestedBindingRedirects.cache
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.Form1.resources
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.Properties.Resources.resources
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.csproj.GenerateResource.cache
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.csproj.CoreCompileInputs.cache
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.exe
+C:\Users\мвидеоэ\source\repos\MathQuizКоряковаВиктория\obj\Debug\MathQuizКоряковаВиктория.pdb
