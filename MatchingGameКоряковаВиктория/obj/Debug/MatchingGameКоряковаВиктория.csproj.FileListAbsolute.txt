@@ -1,0 +1,11 @@
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\bin\Debug\MatchingGameКоряковаВиктория.exe.config
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\bin\Debug\MatchingGameКоряковаВиктория.exe
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\bin\Debug\MatchingGameКоряковаВиктория.pdb
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.csproj.AssemblyReference.cache
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.csproj.SuggestedBindingRedirects.cache
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.Form1.resources
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.Properties.Resources.resources
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.csproj.GenerateResource.cache
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.csproj.CoreCompileInputs.cache
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.exe
+C:\Users\мвидеоэ\source\repos\MatchingGameКоряковаВиктория\obj\Debug\MatchingGameКоряковаВиктория.pdb
