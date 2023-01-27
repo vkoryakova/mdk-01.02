@@ -1,0 +1,11 @@
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\bin\Debug\PictureViewerКорякова.exe.config
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\bin\Debug\PictureViewerКорякова.exe
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\bin\Debug\PictureViewerКорякова.pdb
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.csproj.AssemblyReference.cache
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.csproj.SuggestedBindingRedirects.cache
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.Form1.resources
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.Properties.Resources.resources
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.csproj.GenerateResource.cache
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.csproj.CoreCompileInputs.cache
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.exe
+C:\Users\мвидеоэ\source\repos\PictureViewerКорякова\obj\Debug\PictureViewerКорякова.pdb
