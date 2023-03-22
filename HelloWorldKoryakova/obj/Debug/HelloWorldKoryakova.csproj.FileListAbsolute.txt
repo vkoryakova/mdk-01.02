@@ -1,0 +1,8 @@
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\bin\Debug\HelloWorldKoryakova.exe.config
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\bin\Debug\HelloWorldKoryakova.exe
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\bin\Debug\HelloWorldKoryakova.pdb
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\obj\Debug\HelloWorldKoryakova.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\obj\Debug\HelloWorldKoryakova.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\obj\Debug\HelloWorldKoryakova.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\obj\Debug\HelloWorldKoryakova.exe
+C:\Users\student\Downloads\mdk0102-main\PictureViewer Талибова\MatchingGame\HelloWorldKoryakova\obj\Debug\HelloWorldKoryakova.pdb
