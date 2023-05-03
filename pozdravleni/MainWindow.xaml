@@ -1,0 +1,19 @@
+﻿<Window x:Class="pozdravleni.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pozdravleni"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="1000">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:RhombusContol Header="Новый Год!" Description="В Новый год желаю счастья, Бесконечного добра. Пусть мечты и все желанья Исполняются всегда!!" ColoredSource="/Assets/049-7-1536x960.jpg" ></local:RhombusContol>
+            <local:RhombusContol Header="23 Февраля!" Description="Пусть удача не подводит, За тобою следом ходит, Не теряй в глазах огня! С 23 Февраля! " ColoredSource="/Assets/1660766644_1-kartinkin-net-p-stilnie-otkritki-s-23-fevralya-1.jpg" ></local:RhombusContol>
+            <local:RhombusContol Header="8 Марта " Description="Пусть весна согреет сердце
+Ласковым своим теплом,
+Принесет 8 Марта Счастье и удачу в дом!" ColoredSource="/Assets/202709.jpg" ></local:RhombusContol>
+            <local:RhombusContol Header="День рождения" Description="С днем рождения! Преуспевай во всём, мечтай и наслаждайся жизнью! И пусть она будет полна прекрасных и счастливых мгновений!" ColoredSource="/Assets/картинка-с-днем-рождения-для-ватсапа-04.jpg" ></local:RhombusContol>
+        </StackPanel>
+    </Grid>
+</Window>
