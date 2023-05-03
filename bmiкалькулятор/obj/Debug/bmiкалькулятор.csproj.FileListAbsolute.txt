@@ -1,0 +1,12 @@
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.csproj.AssemblyReference.cache
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.csproj.SuggestedBindingRedirects.cache
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.Form1.resources
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.Properties.Resources.resources
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.csproj.GenerateResource.cache
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.csproj.CoreCompileInputs.cache
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\bin\Debug\bmiкалькулятор.exe.config
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\bin\Debug\bmiкалькулятор.exe
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\bin\Debug\bmiкалькулятор.pdb
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.exe
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.pdb
+C:\Users\мвидеоэ\source\repos\bmiкалькулятор\obj\Debug\bmiкалькулятор.Map.resources
