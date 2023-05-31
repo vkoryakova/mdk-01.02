@@ -1,0 +1,23 @@
+C:\Корякова Виктория 23ис-21\текстовый редактор\bin\Debug\текстовый редактор.exe.config
+C:\Корякова Виктория 23ис-21\текстовый редактор\bin\Debug\текстовый редактор.exe
+C:\Корякова Виктория 23ис-21\текстовый редактор\bin\Debug\текстовый редактор.pdb
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый редактор.csproj.AssemblyReference.cache
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый редактор.csproj.SuggestedBindingRedirects.cache
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый_редактор.Form1.resources
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый_редактор.Properties.Resources.resources
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый редактор.csproj.GenerateResource.cache
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый редактор.csproj.CoreCompileInputs.cache
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый редактор.exe
+C:\Корякова Виктория 23ис-21\текстовый редактор\obj\Debug\текстовый редактор.pdb
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый редактор.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый редактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый_редактор.AboutBox1.resources
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый_редактор.Form1.resources
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый_редактор.Properties.Resources.resources
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый редактор.csproj.GenerateResource.cache
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый редактор.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый редактор.exe
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\obj\Debug\текстовый редактор.pdb
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\bin\Debug\текстовый редактор.exe.config
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\bin\Debug\текстовый редактор.exe
+C:\Users\student\Downloads\mdk-01.02-main (3)\mdk-01.02-main\текстовый редактор\bin\Debug\текстовый редактор.pdb
